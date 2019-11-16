@@ -9,7 +9,7 @@ Script to bypass multiple certificate pinning checks in Android apps:
 *  [frida_multiple_unpinning.js](<https://gist.github.com/akabe1/5632cbc1cd49f0237cbd0a93bc8e4452>)
 
 #### Android Universal Certificate Pinning Bypasser
-Script to bypass certificate pinning check implemented with TrustManager in Android > 7 apps:
+Script to bypass certificate pinning check implemented with a recursive TrustManager in Android apps:
 * [frida_universal_pinning_bypasser.js](<https://gist.github.com/akabe1/ac6029bf2315c6d95ff2ad00fb7be1fc>)
 
 
