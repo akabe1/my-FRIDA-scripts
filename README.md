@@ -2,7 +2,7 @@
 
 
 # Description
-Some useful FRIDA javascript tools for mobile security analysis (also shared on: <https://codeshare.frida.re/>):
+Some useful FRIDA javascript tools for mobile security analysis (also shared on: <https://codeshare.frida.re/>), these scripts have been tested only on devices (it is not guaranteed that they work on emulators):
 
 #### Android Multiple Certificate Pinning Bypass
 Script to bypass multiple certificate pinning checks in Android apps: 
@@ -12,6 +12,9 @@ Script to bypass multiple certificate pinning checks in Android apps:
 Script to bypass certificate pinning check implemented with a recursive TrustManager in Android apps:
 * [frida_universal_pinning_bypasser.js](<https://gist.github.com/akabe1/ac6029bf2315c6d95ff2ad00fb7be1fc>)
 
+#### Android Network Security Config Bypasser
+Script to bypass network security config pinning check in Android apps (inspired by other similar scripts as `https://research.nccgroup.com/2017/11/03/bypassing-androids-network-security-configuration/` and `https://cmrodriguez.me/blog/nsc-bypass/`):
+* [frida_netsecconfig_bypass.js](<https://gist.github.com/akabe1/3da684903d8e57ec3328432358289b65>)
 
 
 # GNU License
