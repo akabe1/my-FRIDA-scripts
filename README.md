@@ -2,7 +2,7 @@
 
 
 # Description
-Some useful FRIDA javascript tools for mobile security analysis (also shared on: <https://codeshare.frida.re/>), these scripts have been tested only on devices (it is not guaranteed that they work on emulators):
+Some useful FRIDA javascript tools for mobile security analysis (some are also shared on: <https://codeshare.frida.re/>), these scripts have been tested only on devices (it is not guaranteed that they work on emulators):
 
 #### Android Multiple Certificate Pinning Bypass
 Script to bypass multiple certificate pinning checks in Android apps: 
