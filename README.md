@@ -16,6 +16,10 @@ Script to bypass certificate pinning check implemented with a recursive TrustMan
 Script to bypass network security config pinning check in Android apps (inspired by other similar scripts as `https://research.nccgroup.com/2017/11/03/bypassing-androids-network-security-configuration/` and `https://cmrodriguez.me/blog/nsc-bypass/`):
 * [frida_netsecconfig_bypass.js](<https://gist.github.com/akabe1/3da684903d8e57ec3328432358289b65>)
 
+#### Android Keystore Spy
+Script to analyze the calls to Android Keystore performed by Android apps:
+* [keystore_spy.js](<https://gist.github.com/akabe1/c9d285ad3d07e7f47fc6d1599d01c8cf>)
+
 
 # GNU License
 - Copyright (c) 2019
